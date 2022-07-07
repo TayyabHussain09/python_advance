@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2b8188-1d07-4922-ad83-7dbb0109d0a2" name="Changes" comment="" />
+    <list default="true" id="4e2b8188-1d07-4922-ad83-7dbb0109d0a2" name="Changes" comment="hi tayyab how are you">
+      <change afterPath="$PROJECT_DIR$/checkreloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/session_day_two-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/session_day_two-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Data_viz.py" beforeDir="false" afterPath="$PROJECT_DIR$/14_Data_viz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive (1).zip" beforeDir="false" afterPath="$PROJECT_DIR$/archive (1).zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session_day_two.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/session_day_two.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,13 +40,13 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/06_input_variables.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/04_comments.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/03_strings.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/09_if_else_elif.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/eighthgraph.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/03_strings.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/06_input_variables.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/01_first_programme.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/05_variables.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09_if_else_elif.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,8 +61,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -66,34 +75,7 @@
       <recent name="C:\Users\Tayyab\AppData\Local\Temp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_conditional_logics">
-    <configuration name="01_first_programme" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" temporary="true" nameIsGenerated="true">
-      <module name="python with AAMMAR BABA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python310\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <EXTENSION ID="software.aws.toolkits.jetbrains.core.execution.PythonAwsConnectionExtension">
-        <option name="credential" />
-        <option name="region" />
-        <option name="useCurrentConnection" value="false" />
-      </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
-      <option name="PARAMETERS" value="$FileName$" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\Tayyab\OneDrive\Desktop\python with AAMMAR BABA" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.14_Data_viz">
     <configuration name="05_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python with AAMMAR BABA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,6 +119,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="14_Data_viz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python with AAMMAR BABA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Data_viz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="checkreloading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python with AAMMAR BABA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkreloading.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="twelvegrafh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python with AAMMAR BABA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,10 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14_Data_viz" />
+        <item itemvalue="Python.checkreloading" />
         <item itemvalue="Python.07_conditional_logics" />
         <item itemvalue="Python.05_variables" />
         <item itemvalue="Python.twelvegrafh" />
-        <item itemvalue="Python.01_first_programme" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +207,21 @@
       <workItem from="1647723749905" duration="242000" />
       <workItem from="1647724504140" duration="165000" />
     </task>
+    <task id="LOCAL-00001" summary="hi">
+      <created>1650831401506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650831401506</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hi tayyab how are you">
+      <created>1650831594477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650831594477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +237,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <MESSAGE value="hi tayyab how are you" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi tayyab how are you" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
